@@ -1,3 +1,3 @@
-if __name__=='__main__':
-    print('hello.   good bey.')
-    print(90+2)
+if __name__ == "__main__":
+    print("hello.   good bey.")
+    print(90 * 90)
